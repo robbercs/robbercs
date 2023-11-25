@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying the third year of the Mathematics and Computer Science degree at the Polytechnic University of Madrid.<br>I am also working as a part-time mathematics teacher at the Vigara Academy in Alcorcón<br>I want to get a higher level ofprofessional knowledge in computer science to acquire experience in the sector
+I am currently studying the third year of the Mathematics and Computer Science degree at the Polytechnic University of Madrid.<br>I want to get a higher level ofprofessional knowledge in computer science to acquire experience in the sector
 Most of the repositories and projects that I have are associated with the university and its subjects and that is why they are private, but you can ask me about them
 
 ## 🌐 Socials:
